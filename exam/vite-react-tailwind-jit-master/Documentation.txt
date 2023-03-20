@@ -1,0 +1,12 @@
+Npm install 
+
+Npm run dev
+
+
+Welcome - Start side
+
+Activities - List af aktiviteter fra api
+
+ActivityDetails - Detaljier af den aktivitet man trykker på
+
+Jeg har brugt fetch 

@@ -11,9 +11,9 @@ function Navbar() {
         </h1>
         <div>
           <ul className="flex items-center space-x-10 text-sm">
-            <li><Link to="/" className="text-primary hover:text-primary">Welcome</Link></li>
-            <li><Link to="/Login" className="text-primary hover:text-primary">Log ind</Link></li>
-            <li><Link to="/Activity" className="text-primary hover:text-primary">Activity</Link></li>
+            <li><Link to="/Activity" className="text-primary hover:text-primary">Activities</Link></li>
+            <li><Link to="/Search" className="text-primary hover:text-primary">Search</Link></li>
+            <li><Link to="/Schedule" className="text-primary hover:text-primary">Schedule</Link></li>
           </ul>
         </div>
         <div />
